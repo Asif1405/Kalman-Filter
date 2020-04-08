@@ -5,3 +5,4 @@ In statistics and control theory, Kalman filtering, also known as linear quadrat
 
 ### Requirements:
 C++
+Visual Studio 2015 or later
